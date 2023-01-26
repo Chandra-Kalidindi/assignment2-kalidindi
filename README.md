@@ -18,7 +18,3 @@
 
 
 4.South Africa
- 
-2.Australia
-3.England
-4.South Africa
