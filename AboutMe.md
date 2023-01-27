@@ -3,7 +3,6 @@
 
 ![image](![Northwest_Missouri_State_Bearcats_logo svg](https://user-images.githubusercontent.com/122591663/215020699-5f9d27d8-0675-41e9-9fc2-f859822fce47.jpg)
 ).
-[image uploaded](![Northwest_Missouri_State_Bearcats_logo svg](https://user-images.githubusercontent.com/122591663/215021135-263816b8-6cfa-4119-82a7-e5151eda07c8.jpg)
-)
+
  
 
