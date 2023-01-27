@@ -5,6 +5,5 @@
 ![Click he to view my image](https://user-images.githubusercontent.com/122591663/215025369-0e4ba0ad-1a87-457a-a137-d4d98afc80d2.jpg)
  
 
-[image link](https://github.com/S559007/assignment2-kalidindi/blob/main/myimage.jpg)
 
 
