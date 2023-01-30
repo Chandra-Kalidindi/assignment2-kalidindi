@@ -6,9 +6,9 @@
 --- 
 
 1.INDIA   
-   * 1.Virat Kohli 
-   * 2.MS Dhoni 
-   * 3.Rohit Sharma
+   * Virat Kohli 
+   * MS Dhoni 
+   * Rohit Sharma
  
 
 2.Australia
