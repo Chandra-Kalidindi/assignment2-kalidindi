@@ -29,6 +29,28 @@
 
 ### Code Fencing
 
-> 
+> ~~~add_action( 'run_snippet_hourly', function () {
+$user_query = array(
+    'role'    => 'um_pds-project-manager',
+    'orderby' => 'display_name',
+    'order'   => 'ASC'
+);
+$users = get_users( $user_query );
+if ( !empty( $users ) ) { 
+foreach ( $users as $user ) 
+$user_id= $user->ID;
+$args = array(
+  'posts_per_page' => -1,
+  'post_type' => 'project',
+  'meta_query' => array(
+            'relation' => 'AND',
+    array(
+        'key'   => 'status',
+        'value' => '1'
+    ),
+         
+
+
+
 
 
