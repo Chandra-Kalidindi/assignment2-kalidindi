@@ -2,7 +2,7 @@
 # Chandra Venkata Vijaya Gopal Raju Kalidindi
 > I'm gopal raju and I came from india from a city called vizianagaram which is located in andhra pradesh state. I completed my bachelor degree in the year 2022 from computer science field with 7.3 cgpa. I'm here to persue the masters in ACS branch in NorthWest Missouri State University.
 
-![My Imager](https://user-images.githubusercontent.com/122591663/215025369-0e4ba0ad-1a87-457a-a137-d4d98afc80d2.jpg)
+![My Image]()
  
  ---
  
@@ -21,9 +21,9 @@
 
 ### Quotes
 
-> Imagination is more important than knowledge - *Albert Einstein*
+"Imagination is more important than knowledge" - *Albert Einstein*
 
-> Everything is theoretically impossible, Until it is done - *Robert A Heinlein*
+"Everything is theoretically impossible, Until it is done" - *Robert A Heinlein*
 
 ---
 
