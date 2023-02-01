@@ -29,7 +29,7 @@
 
 ### Code Fencing
 
-> ~~~add_action( 'run_snippet_hourly', function () {
+ ~~~add_action( 'run_snippet_hourly', function () {
 $user_query = array(
     'role'    => 'um_pds-project-manager',
     'orderby' => 'display_name',
@@ -47,10 +47,4 @@ $args = array(
     array(
         'key'   => 'status',
         'value' => '1'
-    ),
-         
-
-
-
-
-
+    ),~~~
