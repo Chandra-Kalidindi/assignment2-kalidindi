@@ -6,16 +6,14 @@
 --- 
 
 1.INDIA   
-   * Virat Kohli 
-   * MS Dhoni 
-   * Rohit Sharma
+- Virat Kohli
+- MS Dhoni
+- Rohit Sharma
  
 
 2.Australia
 
-
-3.England
-
+2.England
 
 4.South Africa
 
